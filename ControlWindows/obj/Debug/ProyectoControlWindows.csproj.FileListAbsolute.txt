@@ -1,0 +1,8 @@
+D:\Cenfotec\4 Cuatri\Diseño y Construc. de Componentes\IgnacioZelada_Lab1\Lab1_Parte2\ProyectoControlWindows\bin\Debug\ProyectoControlWindows.dll
+D:\Cenfotec\4 Cuatri\Diseño y Construc. de Componentes\IgnacioZelada_Lab1\Lab1_Parte2\ProyectoControlWindows\bin\Debug\ProyectoControlWindows.pdb
+D:\Cenfotec\4 Cuatri\Diseño y Construc. de Componentes\IgnacioZelada_Lab1\Lab1_Parte2\ProyectoControlWindows\obj\Debug\ProyectoControlWindows.csproj.AssemblyReference.cache
+D:\Cenfotec\4 Cuatri\Diseño y Construc. de Componentes\IgnacioZelada_Lab1\Lab1_Parte2\ProyectoControlWindows\obj\Debug\ProyectoControlWindows.UserControl1.resources
+D:\Cenfotec\4 Cuatri\Diseño y Construc. de Componentes\IgnacioZelada_Lab1\Lab1_Parte2\ProyectoControlWindows\obj\Debug\ProyectoControlWindows.csproj.GenerateResource.cache
+D:\Cenfotec\4 Cuatri\Diseño y Construc. de Componentes\IgnacioZelada_Lab1\Lab1_Parte2\ProyectoControlWindows\obj\Debug\ProyectoControlWindows.csproj.CoreCompileInputs.cache
+D:\Cenfotec\4 Cuatri\Diseño y Construc. de Componentes\IgnacioZelada_Lab1\Lab1_Parte2\ProyectoControlWindows\obj\Debug\ProyectoControlWindows.dll
+D:\Cenfotec\4 Cuatri\Diseño y Construc. de Componentes\IgnacioZelada_Lab1\Lab1_Parte2\ProyectoControlWindows\obj\Debug\ProyectoControlWindows.pdb
